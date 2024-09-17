@@ -9,7 +9,7 @@ body{
 .header{
     min-height: 100vh;
     width: 100%;
-    background-image: url(img/feature-image.jpg);
+    background-image: url('https://academics-bucket-sj19asxm-prod.s3.ap-southeast-1.amazonaws.com/8c724f2a-32b5-4b3d-80b3-14c4b365388d/feature-image.jpg');
     background-position: center;
     background-size: cover;
     position: relative;
